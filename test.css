@@ -45,7 +45,7 @@
 .song:hover{
     background-color: rgb(94, 94, 94);
     transform: scale(1.1);
-    display: ;
+    
 }
 .song img:hover {
     transform: scale(1.1);
